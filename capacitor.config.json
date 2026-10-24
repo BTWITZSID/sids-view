@@ -1,0 +1,6 @@
+{
+  "appId": "com.sidsview.app",
+  "appName": "SidsView",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
